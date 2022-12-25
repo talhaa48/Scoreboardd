@@ -1,0 +1,47 @@
+body {
+    background: #0C4A6E;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin:0;
+   
+
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+ 
+}
+
+#home-count {
+    
+    background: black;
+    border-radius: 5px;
+    color:  #DC3535;
+    font-size: 70px;
+    width: 120px;
+    margin: 20px;
+    
+}
+#guest-count {
+    background: black;
+    border-radius: 5px;
+    color: #DC3535;
+    font-size: 70px;
+    width: 120px;
+    margin: 20px;
+    
+    
+    
+}
+#btn{
+    border: 1px solid white;
+    background: no-repeat;
+    border-radius: 5px;
+    padding: 7px;
+    color: white;
+    font-size: 15px;
+    margin:2px;
+    
+}
